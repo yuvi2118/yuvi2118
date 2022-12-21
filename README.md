@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yuvi2118
-- 👀 I’m interested in WEB Designing and UI/UX Development
+- 👋 Hi, I’m Yuvraj Singh Rathore 
+- 👀 I’m interested in Applications Development and UI/UX Development
 - 🌱 I’m currently learning UI designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
