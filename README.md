@@ -24,8 +24,5 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuvi2118&icon=4&color=7)](https://visitcount.itsvg.in)
