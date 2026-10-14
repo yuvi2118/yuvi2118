@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Rathore</h1>
-<h3 align="center">A passionate Cloud Engineer</h3>
+<h3 align="center">A passionate Applied AI Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi2118" alt="yuvi2118" /></a> </p>
 
