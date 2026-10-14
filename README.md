@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi2118" alt="yuvi2118" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [webnitisolutions.com](webnitisolutions.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolioyuvrajsingh.netlify.app/)
 
 - 📫 How to reach me **yuvrajsinghrathore2118@gmail.com**
 
